@@ -1,5 +1,6 @@
 ---
 title: c语言笔记
+author: i小灰
 copyright: true
 date: 2018-06-16 19:12:27
 tags:
@@ -11,8 +12,6 @@ categories: 郑州科技大学-专业课
 C语言入门 -> Linux C语言编程基本原理与实践 -> Linux C语言指针与内存 -> Linux C语言结构体
 
 ![mark](http://myphoto.mtianyan.cn/blog/180604/44gAE33fEL.png?imageslim)
-
-https://www.imooc.com/course/programdetail/pid/37
 
 ## c语言入门
 
